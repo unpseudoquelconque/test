@@ -1,1 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2021-04-23T14:37:38.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" version="14.6.1" etag="HlFyTiE3vILR0Fzs1DiT" type="github"><diagram id="zCPUgq58g90lDKX_wVba">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-24T15:25:49.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.218" etag="ZDe7F9PaDIZABOMlOATj" version="14.6.6" type="github">
+  <diagram id="zCPUgq58g90lDKX_wVba" name="Page-1">
+    <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3FN9bB2CH1vK817nZAEq-3" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;Summary :&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;&quot;&gt;Redefining &lt;b&gt;historiographic approach&lt;/b&gt; to Japanese &lt;b&gt;modernity&lt;/b&gt; as both a symbol and a catalyst of transformations in &lt;b&gt;legislation&lt;/b&gt; and &lt;b&gt;conception&lt;/b&gt; of &lt;b&gt;international relations.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;labelBackgroundColor=none;labelBorderColor=#000000;fontColor=#FF0000;strokeColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#66B2FF;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-9" value="&lt;font color=&quot;#000000&quot;&gt;Historiography&lt;/font&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22verticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Bhtml%3D1%3Bshape%3Dmxgraph.basic.patternFillRect%3BfillStyle%3Ddiag%3Bstep%3D5%3BfillStrokeWidth%3D0.2%3BfillStrokeColor%3D%23dddddd%3BlabelBackgroundColor%3D%2366B2FF%3BstrokeColor%3D%23666666%3BfillColor%3D%23f5f5f5%3BfontColor%3D%23333333%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2220%22%20y%3D%22220%22%20width%3D%22330%22%20height%3D%22300%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="220" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#66B2FF;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#66B2FF;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="530" y="400" width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;labelBackgroundColor=#66B2FF;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="190" y="530" width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-14" value="&lt;font color=&quot;#000000&quot;&gt;Modernity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-15" value="&lt;font color=&quot;#000000&quot;&gt;Legislation&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="670" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-16" value="&lt;font color=&quot;#000000&quot;&gt;Japan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="190" y="800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-18" value="" style="endArrow=classic;html=1;fontColor=#FF0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-3" target="3FN9bB2CH1vK817nZAEq-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="520" as="sourcePoint" />
+            <mxPoint x="210" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-19" target="3FN9bB2CH1vK817nZAEq-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-19" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Appraising thoughts and major conceptions in approach legislative historiography&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-26" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-19" target="3FN9bB2CH1vK817nZAEq-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="460" as="sourcePoint" />
+            <mxPoint x="174.9999999999999" y="440.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-32" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-3" target="3FN9bB2CH1vK817nZAEq-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="390" as="sourcePoint" />
+            <mxPoint x="559" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-33" target="3FN9bB2CH1vK817nZAEq-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.42;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-33" target="3FN9bB2CH1vK817nZAEq-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-33" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Appraising legislative philosophy as factor in the construction of international relations.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-34" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-35" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-37" target="3FN9bB2CH1vK817nZAEq-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-37" target="3FN9bB2CH1vK817nZAEq-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="360" />
+              <mxPoint x="607" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-37" value="&lt;div style=&quot;text-align: justify&quot;&gt;Appraising Historic transformations and movements of the time&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-38" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-3" target="3FN9bB2CH1vK817nZAEq-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="460" as="sourcePoint" />
+            <mxPoint x="480" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-39" target="3FN9bB2CH1vK817nZAEq-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-39" target="3FN9bB2CH1vK817nZAEq-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="271" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-39" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;Appraising Japanese political and military decisions in the period&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="540" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-40" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FN9bB2CH1vK817nZAEq-3" target="3FN9bB2CH1vK817nZAEq-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="570" as="sourcePoint" />
+            <mxPoint x="470" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-44" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="375" y="700" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-45" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="210" y="620" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-49" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="545" y="540" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-50" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="730" y="500" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-51" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3FN9bB2CH1vK817nZAEq-52" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="120" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
